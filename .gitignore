@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+#GCP 
+google-cloud-sdk/
+google-cloud-cli-387.0.0-linux-x86_64.tar.gz
+
 # Distribution / packaging
 .Python
 build/
